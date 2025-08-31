@@ -1,0 +1,21 @@
+fastapi
+uvicorn
+pydantic
+# pydantic-settings==2.3.3
+python-dotenv
+faiss-cpu
+openai
+sentence-transformers
+python-docx
+pdfminer.six
+PyPDF2
+numpy
+# For testing (optional, but highly recommended)
+# pytest==8.2.2
+
+python-docx
+langchain-openai
+pydantic
+python-dotenv
+langchain-community
+faiss-cpu # or faiss-gpu 

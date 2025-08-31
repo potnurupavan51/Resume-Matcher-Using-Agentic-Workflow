@@ -1,0 +1,40 @@
+# Ignore environment file
+.env
+
+# Ignore virtual environments
+venv/
+ENV/
+env/
+
+cache/jd_cache/
+
+# Ignore application folders
+app/
+RR/
+faiss_index/
+temp_uploads/
+
+# Ignore Python cache
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Ignore all Word documents
+*.docx
+
+# Ignore all JSON files
+*.json
+
+# Ignore VSCode settings (optional)
+.vscode/
+
+# Ignore Jupyter notebooks, logs, and backups (optional)
+*.ipynb
+*.log
+*.tmp
+*~
+*.swp
+*.bak
+
+
+jd.py
